@@ -3,6 +3,7 @@
             width: 200px;
             height: 200px;
             perspective: 600px;
+	 padding:100px
         }
 
         .cube {
